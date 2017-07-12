@@ -4,50 +4,50 @@
 
 [jacobin]
 url=http://www.blubrry.com/feeds/jacobin.xml
-spool=/stor0/music/_Podcasts/jacobin
+spool=~/Podcasts/jacobin
 
 [thisishell]
 url=http://thisishell.com/rss.xml
-spool=/stor0/music/_Podcasts/thisishell
+spool=~/Podcasts/thisishell
 
 [solecast]
 url=http://feeds.feedburner.com/Solecast
-spool=/stor0/music/_Podcasts/solecast
+spool=~/Podcasts/solecast
 
 [againsthegrain]
 url=http://kpfa.org/program/against-the-grain/feed/
-spool=/stor0/music/_Podcasts/againstthegrain
+spool=~/Podcasts/againstthegrain
 
 [chapotraphouse]
 url=http://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss
-spool=/stor0/music/_Podcasts/chapotraphouse
+spool=~/Podcasts/chapotraphouse
 
 #[byanymeansnecessary]
 #url=http://sputniknews.com/export/rss2/archive/index.xml
-#spool=/stor0/music/_Podcasts/byanymeansnecessary
+#spool=~/Podcasts/byanymeansnecessary
 
 [deleteyouraccount]
 url=http://deleteyouraccount.libsyn.com/showrss
-spool=/stor0/music/_Podcasts/deleteyouraccount/
+spool=~/Podcasts/deleteyouraccount/
 
 [swampsidechats]
 #url=http://soundcloud.com/user-231078858
 url=http://feeds.soundcloud.com/users/soundcloud:users:284060811/sounds.rss
-spool=/stor0/music/_Podcasts/swampsidechats/
+spool=~/Podcasts/swampsidechats/
 
 [unworkable]
 #url=http://soundcloud.com/unworkable
 url=http://feeds.soundcloud.com/users/soundcloud:users:299653758/sounds.rss
-spool=/stor0/music/_Podcasts/unworkable/
+spool=~/Podcasts/unworkable/
 
 [discoursecollective]
 #url=http://soundcloud.com/discoursecollective
 url=http://feeds.soundcloud.com/users/soundcloud:users:287122696/sounds.rss
-spool=/stor0/music/_Podcasts/discoursecollective/
+spool=~/Podcasts/discoursecollective/
 
 [economicupdate]
 url=http://economicupdate.libsyn.com/rss
-spool=/stor0/music/_Podcasts/economicupdate/
+spool=~/Podcasts/economicupdate/
 
 ###############################
 # Politics
@@ -55,12 +55,11 @@ spool=/stor0/music/_Podcasts/economicupdate/
 
 [intercepted]
 url=http://feeds.megaphone.fm/intercepted
-spool=/stor0/music/_Podcasts/intercepted
+spool=~/Podcasts/intercepted
 
 [lawfarepodcast]
-#url=http://www.lawfareblog.com/taxonomy/term/5870/all/feed/index.xml
 url=http://lawfare.libsyn.com/rss
-spool=/stor0/music/_Podcasts/lawfarepodcast
+spool=~/Podcasts/lawfarepodcast
 
 ###############################
 # Philosophy
@@ -68,15 +67,15 @@ spool=/stor0/music/_Podcasts/lawfarepodcast
 
 [HOPWAG]
 url=http://hopwag.podbean.com/feed/
-spool=/stor0/music/_Podcasts/HOPWAG/
+spool=~/Podcasts/HOPWAG/
 
 [partiallyexaminedlife]
 url=http://partiallyexaminedlife.libsyn.com/rss
-spool=/stor0/music/_Podcasts/partiallyexaminedlife
+spool=~/Podcasts/partiallyexaminedlife
 
 [philosophybites]
 url=http://www.philosophybites.libsyn.com/rss
-spool=/stor0/music/_Podcasts/philosophybites
+spool=~/Podcasts/philosophybites
 
 ###############################
 # TV
@@ -84,7 +83,7 @@ spool=/stor0/music/_Podcasts/philosophybites
 
 [twinpeaksrewatch]
 url=http://www.idlethumbs.net/feeds/twinpeaks
-spool=/stor0/music/_Podcasts/TwinPeaksRewatch/
+spool=~/Podcasts/TwinPeaksRewatch/
 
 ###############################
 # Tech
@@ -92,13 +91,13 @@ spool=/stor0/music/_Podcasts/TwinPeaksRewatch/
 
 [linuxactionshow]
 url=http://feeds2.feedburner.com/TheLinuxActionShowOGG
-spool=/stor0/music/_Podcasts/linuxactionshow/
+spool=~/Podcasts/linuxactionshow/
 
 [linuxunplugged]
 url=http://feeds.feedburner.com/linuxunogg
-spool=/stor0/music/_Podcasts/linuxunplugged/
+spool=~/Podcasts/linuxunplugged/
 
 [securitynow]
 url=http://leoville.tv/podcasts/sn.xml
-spool=/stor0/music/_Podcasts/securitynow/
+spool=~/Podcasts/securitynow/
 
